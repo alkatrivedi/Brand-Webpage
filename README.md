@@ -1,1 +1,1 @@
-This repository contains a logo of a brand named PetKit using HTML,CSS and BOOTSTRAP.
+This repository contains a webpage of a brand named PetKit. Which I have created using HTML,CSS and BOOTSTRAP.
